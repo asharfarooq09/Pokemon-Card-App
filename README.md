@@ -2,7 +2,7 @@
 
 ## 📌 Project Info
 
-**Live URL**: [https://your-deployment-url.com](https://your-deployment-url.com)
+**Live URL**: https://pokecardapp.netlify.app/
 
 This is a modern frontend project built with **Vite**, **React**, **TypeScript**, **Tailwind CSS**, and **shadcn-ui** — perfect for fast development and clean UI.
 
